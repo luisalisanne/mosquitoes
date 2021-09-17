@@ -1,0 +1,23 @@
+{
+  "name": "spa-random-world-assignment-luisalisanne",
+  "version": "1.0.0",
+  "description": "Build your own randomly generated world!",
+  "main": "index.js",
+  "scripts": {
+    "parcel": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FbW-E03/spa-random-world-assignment-luisalisanne.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FbW-E03/spa-random-world-assignment-luisalisanne/issues"
+  },
+  "homepage": "https://github.com/FbW-E03/spa-random-world-assignment-luisalisanne#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}

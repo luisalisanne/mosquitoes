@@ -1,0 +1,86 @@
+body {
+  margin: 0;
+  background-color: rgba(144, 189, 144, 0.753);
+  height: 100vw;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  font-family: "Lacquer", cursive;
+}
+/* 
+.tree {
+  width: 180px;
+  height: 180px;
+  background-size: cover;
+  position: absolute;
+} */
+
+.tree-1 {
+  background-image: url(/tree-1.6cfc93e7.png);
+  /* left: 400px;
+  top: 100px; */
+
+  width: 180px;
+  height: 180px;
+  background-size: cover;
+  position: absolute;
+}
+
+.tree-2 {
+  background-image: url(/tree-2.109bb7f5.png);
+  /* right: 0px;
+  top: 500px; */
+
+  width: 180px;
+  height: 180px;
+  background-size: cover;
+  position: absolute;
+}
+
+.tree-3 {
+  background-image: url(/tree-3.946eaf71.png);
+  /* left: 100px;
+  bottom: 200px; */
+
+  width: 180px;
+  height: 180px;
+  background-size: cover;
+  position: absolute;
+}
+
+.mosquito {
+  background-image: url(/mosquito.bb2ca46d.png);
+  width: 100px;
+  height: 70px;
+  background-size: cover;
+  position: absolute;
+}
+
+#counter {
+  width: 100px;
+  margin: 5px;
+}
+
+#counterContent {
+  margin: 0 auto;
+  font-size: 60px;
+  color: brown;
+  text-align: center;
+}
+
+#refreshBtn {
+  background-color: greenyellow;
+  font-size: larger;
+  color: green;
+  border: none;
+  margin-left: 5px;
+  font-family: "Lacquer", cursive;
+  padding: 5px;
+}
+
+h2 {
+  margin: 5px;
+  color: green;
+}
+
+
+/*# sourceMappingURL=/styles.956d002c.css.map */
